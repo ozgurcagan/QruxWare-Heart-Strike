@@ -2,7 +2,7 @@
   <h1>💀 QRUXWARE HEART-STRIKE 💀</h1>
   <h3>YOUTUBE MUSIC SANİTIZER // V17 STABLE</h3>
   <p>
-    <a href=chrome-extension://jinjaccalgkegednnccohejagnlnfdag/confirm/index.html#VMnclmqzpa1zr>
+    <a href="https://raw.githubusercontent.com/ozgurcagan/QruxWare-Heart-Strike/main/qruxware_heart_strike.user.js">
       <img src="https://img.shields.io/badge/INSTALL-CLICK_HERE_TO_ACTIVATE-00ff00?style=for-the-badge&logo=tampermonkey" alt="Install Now">
     </a>
   </p>
