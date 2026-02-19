@@ -39,5 +39,5 @@ Bu sistemi çalıştırmak 3 basit adımdan oluşur:
 ---
 
 <div align="center">
-  <p style="font-size:10px; color:#555;">Developed by Özgür Çağan Demiröz | Co-Founder of QruxWare</p>
+  <p style="font-size:10px; color:#555;">Developed by Özgür Çağan Demiröz | Founder of QruxWare</p>
 </div>
