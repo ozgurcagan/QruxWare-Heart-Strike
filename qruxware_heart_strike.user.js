@@ -64,7 +64,7 @@
         header.style.textAlign = 'center';
         header.style.borderBottom = '1px solid #00ff00';
         header.style.paddingBottom = '8px';
-        header.textContent = 'QRUXWARE V17 STABLE';
+        header.textContent = 'QRUXWARE V1 ';
 
         const logDiv = document.createElement('div');
         logDiv.id = 'qrux-status';
