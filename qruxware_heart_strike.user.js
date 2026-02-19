@@ -1,8 +1,8 @@
 
 // ==UserScript==
-// @name         QruxWare Heart-Strike V17 (STABLE FIX)
+// @name         QruxWare Heart-Strike V 1.0 
 // @namespace    http://tampermonkey.net/
-// @version      17.0
+// @version      1.0
 // @description  V15 Çekirdeği + Doğru Filtreleme (Avrupa/Amerika/TR Korumalı)
 // @author       Özgür Çağan Demiröz / QruxWare
 // @match        https://music.youtube.com/*
@@ -33,7 +33,7 @@
     let active = false;
     let count = 0;
 
-    // --- STİL (V15'ten alındı - Çalışan Versiyon) ---
+    // --- STİL
     const injectStyle = () => {
         const style = document.createElement('style');
         style.textContent = `
@@ -160,7 +160,7 @@
                         }
                     }
                 } else {
-                    // Güvenli Şarkı (Yeşil Çizgi)
+                    // Güvenli Şarkı
                     item.style.borderLeft = "4px solid #00ff00";
                 }
             }
