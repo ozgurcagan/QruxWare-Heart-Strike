@@ -3,7 +3,7 @@
 // @name         QruxWare Heart-Strike V 1.0 
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  V15 Çekirdeği + Doğru Filtreleme (Avrupa/Amerika/TR Korumalı)
+// @description  V 1 Çekirdeği + Doğru Filtreleme (Avrupa/Amerika/TR Korumalı)
 // @author       Özgür Çağan Demiröz / QruxWare
 // @match        https://music.youtube.com/*
 // @grant        none
